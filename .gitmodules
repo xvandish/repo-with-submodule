@@ -1,0 +1,3 @@
+[submodule "livegrep"]
+	path = livegrep
+	url = git@github.com:xvandish/livegrep.git
